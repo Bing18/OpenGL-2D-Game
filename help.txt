@@ -1,0 +1,26 @@
+Keyboard Controls:
+Use keys a,d to tilt the canon up and down
+Use keys s,f to move the canon up and down 
+Use keys n,m to increase/decrease the speed of bricks falling
+Use Ctrl+left and Ctrl+right to move the red basket left and right
+Use Alt+left and Alt+right to move the green basket left and right
+Use space bar to shoot the laser/bullet
+Use left and right arrow keys to pan the screen
+Use up and down keys to zoom in and zoom out
+
+Mouse Controls:
+Can move any object by clicking on it and dragging
+Left mouse button can be used to shoot the laser in the required direction
+Use right mouse button to pan left/right
+
+Rules:
+Hit all the black blocks.
+Collect the red bricks in red basket and green bricks in green bakset 
+Letting any of the black bricks falling beyond baskets will end the game
+Hitting black bricks gives 10 points
+Hitting any other brick will reduce the score by 5 points
+There are 4 chances allowed for wrong brick shooting.
+There are mirrors which reflect the laser.
+Score will be reduced by 1 point for not collecting the bricks in their respective baskets.
+
+There are penalty boxes on the top which show you number of misifires.
